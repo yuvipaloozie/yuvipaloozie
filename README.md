@@ -1,4 +1,4 @@
-bored chemical engineer/powerlifter/letterboxd enthusiast that gets turned on by huge collections of numbers
+bored chemical engineer
 
 <!---
 yuvipaloozie/yuvipaloozie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
