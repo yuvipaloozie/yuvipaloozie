@@ -15,6 +15,7 @@ I currently work as a **Process Automation Engineer**, passionate about intersec
 
 ### ✍️ Writing
 * **Mechanistic Interpretability:** Working on a blog series comparing CNN architectures to the human visual system.
+* **ML vs DL** Working on projects/corresponding pieces demonstrating how carefully engineered ML models can outperform standard DL models.
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
