@@ -1,26 +1,24 @@
 # Hi, I'm Yuvraj Tripathy 👋
 
-**Process Automation Engineer | Data Scientist**
+**Process Automation Engineer**
 
 I bridge the gap between traditional engineering principles and modern data science. Currently focused on applying deep learning to defect detection, molecular properties, and predictive process control. 
 
 ---
 
-### 🎓 Education
+### Education
 * **M.S. Data Science** (2027) | Georgia Institute of Technology
 * **B.S. Chemical Engineering** (2024) | Georgia Institute of Technology
 
 ---
 
-### 🔭 Current Projects & Research
+### Current Projects & Research
 * **Osteoclast Segmentation (Computer Vision):** Developing a U-Net architecture to segment and count osteoclasts from microscope imagery to assist in medical research.
-* **Prediction Market Modeling:** Building a dual-input model combining time-series analysis with NLP on news sentiment to predict outcomes in markets like Kalshi/Polymarket.
-* **Molecular Property Prediction:** Implementing Graph Neural Networks (GNNs) on the QM9 dataset to predict chemical properties.
 
-### ✍️ Writing
+### Writing
 * **Mechanistic Interpretability:** Working on a blog series comparing CNN architectures to the human visual system.
 
-### 🛠 Tech Stack
+### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
