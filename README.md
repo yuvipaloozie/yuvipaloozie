@@ -1,21 +1,19 @@
 # Hi, I'm Yuvraj Tripathy 👋
 
-**Process Automation Engineer**
-
-I bridge the gap between traditional engineering principles and modern data science. Currently focused on applying deep learning to defect detection, molecular properties, and predictive process control. 
+I currently work as a **Process Automation Engineer**, passionate about intersection of complex manufacturing processes and the data they produce. My goal is to specialize in the intersection between physical sciences and machine learning, specifically in computer vision and predictive modeling.
 
 ---
 
-### Education
+### 🎓 Education
 * **M.S. Data Science** (2027) | Georgia Institute of Technology
 * **B.S. Chemical Engineering** (2024) | Georgia Institute of Technology
 
 ---
 
-### Current Projects & Research
+### 🔭 Current Projects & Research
 * **Osteoclast Segmentation (Computer Vision):** Developing a U-Net architecture to segment and count osteoclasts from microscope imagery to assist in medical research.
 
-### Writing
+### ✍️ Writing
 * **Mechanistic Interpretability:** Working on a blog series comparing CNN architectures to the human visual system.
 
 ### Tech Stack
