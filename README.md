@@ -7,11 +7,11 @@ I currently work as a **Process Automation Engineer**, passionate about intersec
 * **B.S. Chemical Engineering** (2024) | Georgia Institute of Technology
 
 ### 🔭 Current Projects & Research
-* **Osteoclast Segmentation (Computer Vision):** Developing a U-Net architecture to segment and count osteoclasts from microscope imagery to assist in medical research.
+* **Osteoclast Segmentation:** Developing a U-Net architecture with semi-supervised learning to segment and count osteoclasts from microscope imagery to assist in medical research.
 
 ### ✍️ Writing
 * **Mechanistic Interpretability:** Working on a blog series comparing CNN architectures to the human visual system.
-* **ML vs DL** Working on projects/corresponding pieces demonstrating how carefully engineered ML models can outperform standard DL models.
+* **ML vs DL:** Working on projects/corresponding pieces demonstrating how carefully engineered ML models can outperform standard DL models.
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
