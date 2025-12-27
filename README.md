@@ -7,7 +7,7 @@ I currently work as a **Process Automation Engineer**, passionate about intersec
 * **B.S. Chemical Engineering** (2024) | Georgia Institute of Technology
 
 ### 🔭 Current Projects & Research
-* **Osteoclast Segmentation:** _(In co-operation with Sarah Szabo and PCOM GA)_ Developing a U-Net architecture with semi-supervised learning to segment and count osteoclasts from microscope imagery to assist in medical research.
+* **Osteoclast Segmentation:** _(In cooperation with Sarah Szabo and PCOM GA)_ Developing a U-Net architecture with semi-supervised learning to segment and count osteoclasts from microscope imagery to assist in medical research.
 * **Reinforcement Learning for Process Control:** Creating and testing effectiveness of RL agents on chemical processes in varying complexity for process control. 
   
 ### ✍️ Writing
