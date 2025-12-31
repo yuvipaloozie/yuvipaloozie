@@ -1,4 +1,4 @@
-# Hi, I'm Yuvraj 👋
+# Hi, I'm Yuvraj!
 
 I currently work as a **Process Automation Engineer**, passionate about intersection of complex manufacturing processes and the data they produce. My goal is to specialize in the intersection between physical sciences and machine learning, specifically in computer vision and predictive modeling.
 
