@@ -21,7 +21,6 @@ I currently work as a **Process Automation Engineer**, passionate about intersec
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
-[LinkedIn](https://www.linkedin.com/in/your-profile-url) | [Portfolio/Blog Link](your-link)
 <!---
 yuvipaloozie/yuvipaloozie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
