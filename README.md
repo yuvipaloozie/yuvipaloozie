@@ -9,7 +9,7 @@ I currently work as a **Process Automation Engineer**, passionate about complex 
 ### Ongoing Projects and Research
 * **Osteoclast Segmentation:** _(In cooperation with Sarah Szabo and PCOM GA)_ Developing a TransU-Net architecture with diffusion models and semi-supervised learning to segment and count osteoclasts from microscope imagery to assist in medical research.
 * **Reinforcement Learning for Process Control:** Creating and testing effectiveness of RL agents on chemical processes in varying complexity for process control.
-* **Knowledge Hypergraphs for Manufacturing Plants** Developing zero-shot P&ID digitization as part of an end-to-end pipeline to generate a knowledge hypergraph of manufacturing processes for agent-based applications.
+* **Knowledge Hypergraphs for Manufacturing Plants:** Developing zero-shot P&ID digitization as part of an end-to-end pipeline to generate a knowledge hypergraph of manufacturing processes for agent-based applications.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
