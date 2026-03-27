@@ -17,6 +17,7 @@ I currently work as a **Process Automation Engineer**, passionate about complex 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rockwell](https://img.shields.io/badge/Studio_5000-E31937?style=for-the-badge)
+![DeltaV](https://img.shields.io/badge/DeltaV_DCS-00508F?style=for-the-badge)
 
 <!---
 yuvipaloozie/yuvipaloozie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
