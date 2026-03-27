@@ -2,19 +2,16 @@
 
 I currently work as a **Process Automation Engineer**, passionate about complex manufacturing processes and the data they produce. My goal is to specialize in the intersection between physical sciences and machine learning, specifically in computer vision and predictive modeling.
 
-### 🎓 Education
+### Education
 * **M.S. Data Science** (2027) | Georgia Institute of Technology
 * **B.S. Chemical Engineering** (2024) | Georgia Institute of Technology
 
-### 🔭 Ongoing Projects and Research
-* **Osteoclast Segmentation:** _(In cooperation with Sarah Szabo and PCOM GA)_ Developing a TransU-Net architecture with semi-supervised learning to segment and count osteoclasts from microscope imagery to assist in medical research.
-* **Reinforcement Learning for Process Control:** Creating and testing effectiveness of RL agents on chemical processes in varying complexity for process control. 
-  
-### ✍️ Writing
-* **Mechanistic Interpretability:** Working on a blog series comparing CNN architectures to the human visual system.
-* **ML vs DL:** Working on projects/corresponding pieces demonstrating how carefully engineered ML models can outperform standard DL models.
+### Ongoing Projects and Research
+* **Osteoclast Segmentation:** _(In cooperation with Sarah Szabo and PCOM GA)_ Developing a TransU-Net architecture with diffusion models and semi-supervised learning to segment and count osteoclasts from microscope imagery to assist in medical research.
+* **Reinforcement Learning for Process Control:** Creating and testing effectiveness of RL agents on chemical processes in varying complexity for process control.
+* **Knowledge Hypergraphs for Manufacturing Plants** Developing zero-shot P&ID digitization as part of an end-to-end pipeline to generate a knowledge hypergraph of manufacturing processes for agent-based applications.
 
-### Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
