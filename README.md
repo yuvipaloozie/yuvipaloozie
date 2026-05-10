@@ -1,6 +1,6 @@
 # Hi, I'm Yuvraj!
 
-I currently work as a **Process Automation Engineer**, passionate about complex processes and the data they produce. My goal is to specialize in the intersection between physical sciences and machine learning, specifically in computer vision and predictive modeling.
+I currently work as a **Process Automation Engineer**, passionate about complex processes and the data they produce. My goal is to specialize in the intersection between physical sciences and deep learning to generate high impact, interpretable models. 
 
 ### Education
 * **M.S. Data Science** (2027) | Georgia Institute of Technology
