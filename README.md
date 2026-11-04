@@ -1,6 +1,5 @@
 # Hi, I'm Yuvraj!
-
-At Arclin, I work on process control and manufacturing data as a **Corporate Automation Engineer II**. I studied chemical engineering and now work on applied ML problems in industrial systems and biomedical research. I am particularly interested in graph neural networks, time-series modelling and computer vision, especially when the model can be tested against a physical process or an experiment.
+I studied chemical engineering and now work on applied ML problems in industrial systems and biomedical research. I am particularly interested in graph neural networks, time-series modelling and computer vision, especially when the model can be tested against a physical process or an experiment.
 
 ### Education
 * **M.Sc. Computational Data Analytics** (expected 2027) | Georgia Institute of Technology
